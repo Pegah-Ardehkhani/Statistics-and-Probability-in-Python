@@ -1,11 +1,12 @@
 # Statistics and Probability in Python 📊 📈 ![license](https://img.shields.io/github/license/Pegah-Ardehkhani/Statistics-and-Probability-in-Python.svg) ![releases](https://img.shields.io/github/release/Pegah-Ardehkhani/Statistics-and-Probability-in-Python.svg)
 
+> **`Note`**: This repository is still developing.
 
 <p align="center"> 
   <img width="500" height="350" src="https://cdn.dribbble.com/users/962944/screenshots/14138307/media/ca3377660c3d2053c9d91ac175871429.gif"> 
 </p>
 
-## Table of content
+## Table of content ✍️
 
 **Chapter 1: Special Continuous Random Variables:** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%201%20Special%20Continuous%20Random%20Variables.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%201%20Special%20Continuous%20Random%20Variables.ipynb)
 
@@ -42,7 +43,7 @@
 - 3.4. Confidence Interval for the Ratio of Variances of Two Normal Populations
 - 3.5. Confidence Interval for the Mean of a Bernoulli Random Variable
 
-**Chapter 4: Parametric Hypothesis Testing:** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%204%20Parametric%20Hypothesis%20Testing.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%204%20Parametric%20Hypothesis%20Testing.ipynb)
+**Chapter 4: Parametric Hypothesis Testing:** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%204%20Parametric%20Hypothesis%20Testing.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%204%20Parametric%20Hypothesis%20Testing.ipynb)
 
 - 4.1. Introduction
 - 4.2. Test Concerning the Mean of a Normal Population
@@ -55,4 +56,24 @@
 - 4.5. Test Concerning the Variance of a Normal Population
 - 4.6. Test Concerning the Equality of Variances of Two Normal Populations
 - 4.7. Test Concerning P in Bernoulli Populations
-4.8. Test Concerning the Equality of P in Two Bernoulli Populations
+- 4.8. Test Concerning the Equality of P in Two Bernoulli Populations
+
+**Chapter 5: Statistical Hypothesis Testing:** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%205%20Statistical%20Hypothesis%20Testing.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%205%20Statistical%20Hypothesis%20Testing.ipynb)
+
+- 5.1. Normality Tests
+  - 5.1.1. Shapiro-Wilk Test
+  - 5.1.2. D’Agostino’s  Test
+  - 5.1.3. Anderson-Darling Test
+- 5.2. Correlation Tests
+  - 5.2.1. Pearson’s Correlation Coefficient
+  - 5.2.2. Spearman’s Rank Correlation
+  - 5.2.3. Kendall’s Rank Correlation
+  - 5.2.4. Chi-Squared Test
+- 5.3. Stationary Tests
+  - 5.3.1. Augmented Dickey-Fuller Unit Root Test
+  - 5.3.2. Kwiatkowski-Phillips-Schmidt-Shin Test
+- 5.4. Other Tests
+  - 5.4.1. Mann-Whitney U-Test
+  - 5.4.2. Wilcoxon Signed-Rank Test
+  - 5.4.3. Kruskal-Wallis H Test
+  - 5.4.4. Friedman Test
