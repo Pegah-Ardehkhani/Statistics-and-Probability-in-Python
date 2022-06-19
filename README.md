@@ -29,7 +29,7 @@
 - 2.5. Discrete Uniform Distribution
 - 2.6. Hypergeometric Distribution
 
-**Chapter 3: Confidence Intervals:** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%203%20Confidence%20Intervals.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%203%20Confidence%20Intervals.ipynb)
+**Chapter 3: Confidence Intervals:** 
 
 - 3.1. Confidence Interval for the Mean of a Normal Population
   - 3.1.1. Known Standard Deviation
