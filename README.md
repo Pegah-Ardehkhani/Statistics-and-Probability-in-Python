@@ -78,7 +78,7 @@
   - 5.4.3. Kruskal-Wallis H Test
   - 5.4.4. Friedman Test
 
-**Chapter 6: Regression**
+**Chapter 6: Regression** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%206%20Regression.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%206%20Regression.ipynb)
 
 - 6.1. Introduction
 - 6.2. Least Squares Estimators of the Regression Parameters
