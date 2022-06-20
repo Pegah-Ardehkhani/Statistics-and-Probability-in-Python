@@ -77,3 +77,28 @@
   - 5.4.2. Wilcoxon Signed-Rank Test
   - 5.4.3. Kruskal-Wallis H Test
   - 5.4.4. Friedman Test
+
+**Chapter 6: Regression**
+
+- 6.1. Introduction
+- 6.2. Least Squares Estimators of the Regression Parameters
+- 6.3. Statistical Inferences about the Regression Parameters
+  - 6.3.1. Inferences Concerning  B 
+    - 6.3.1.1. Known Variance
+    - 6.3.1.2. Unknown Variance
+  - 6.3.2. Inferences Concerning  A 
+    - 6.3.2.1. Unknown Variance
+  - 6.3.3. T-tests for Regression Parameters with statsmodels
+  - 6.3.4. F-statistic for Overall Significance in Regression
+- 6.4. Confidence Intervals Concerning Regression Models
+  - 6.4.1. Confidence Interval for  B 
+    - 6.4.1.1. Known Variance
+    - 6.4.1.2. Unknown Variance
+  - 6.4.2. Confidence Interval for  A 
+    - 6.4.2.1. Unknown Variance
+  - 6.4.3. Confidence Interval for  A+Bx 
+    - 6.4.3.1. Unknown Variance
+  - 6.4.4. Prediction Interval of a Future Response
+- 6.5. Residuals
+  - 6.5.1. Regression Diagnostic
+  - 6.5.2. Multicolinearity
