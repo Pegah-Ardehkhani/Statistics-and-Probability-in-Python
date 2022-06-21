@@ -37,7 +37,7 @@
 - 3.2. Confidence Interval for the Variance of a Normal Population
   - 3.2.1. Unknown Mean of the Population
   - 3.2.2. Known Mean of the Population
--3.3. Confidence Interval for the Difference in Means of Two Normal Population
+- 3.3. Confidence Interval for the Difference in Means of Two Normal Population
   - 3.3.1. Known Variances
   - 3.3.2. Unknown but Equal Variances
 - 3.4. Confidence Interval for the Ratio of Variances of Two Normal Populations
