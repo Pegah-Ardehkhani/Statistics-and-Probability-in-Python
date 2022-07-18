@@ -8,7 +8,7 @@
 
 ## Table of content ✍️
 
-**Chapter 1: Special Continuous Random Variables:** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%201%20Special%20Continuous%20Random%20Variables.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%201%20Special%20Continuous%20Random%20Variables.ipynb)
+**Chapter 1: Special Continuous Random Variables** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%201%20Special%20Continuous%20Random%20Variables.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%201%20Special%20Continuous%20Random%20Variables.ipynb)
 
 - 1.1. Normal (Gaussian) Distribution
 - 1.2. Chi-square Distribution
@@ -20,7 +20,7 @@
 - 1.8. Beta Distribution
 - 1.9. Weibull Distribution
 
-**Chapter 2: Special Discrete Random Variables:** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%202%20Special%20Discrete%20Random%20Variables.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%202%20Special%20Discrete%20Random%20Variables.ipynb)
+**Chapter 2: Special Discrete Random Variables** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%202%20Special%20Discrete%20Random%20Variables.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%202%20Special%20Discrete%20Random%20Variables.ipynb)
 
 - 2.1. Bernoulli Distribution
 - 2.2. Binomial Distribution
@@ -29,7 +29,7 @@
 - 2.5. Discrete Uniform Distribution
 - 2.6. Hypergeometric Distribution
 
-**Chapter 3: Confidence Intervals:** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%203%20Confidence%20Intervals.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%203%20Confidence%20Intervals.ipynb)
+**Chapter 3: Confidence Intervals** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%203%20Confidence%20Intervals.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%203%20Confidence%20Intervals.ipynb)
 
 - 3.1. Confidence Interval for the Mean of a Normal Population
   - 3.1.1. Known Standard Deviation
@@ -43,7 +43,7 @@
 - 3.4. Confidence Interval for the Ratio of Variances of Two Normal Populations
 - 3.5. Confidence Interval for the Mean of a Bernoulli Random Variable
 
-**Chapter 4: Parametric Hypothesis Testing:** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%204%20Parametric%20Hypothesis%20Testing.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%204%20Parametric%20Hypothesis%20Testing.ipynb)
+**Chapter 4: Parametric Hypothesis Testing** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%204%20Parametric%20Hypothesis%20Testing.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%204%20Parametric%20Hypothesis%20Testing.ipynb)
 
 - 4.1. Introduction
 - 4.2. Test Concerning the Mean of a Normal Population
@@ -58,7 +58,7 @@
 - 4.7. Test Concerning P in Bernoulli Populations
 - 4.8. Test Concerning the Equality of P in Two Bernoulli Populations
 
-**Chapter 5: Statistical Hypothesis Testing:** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%205%20Statistical%20Hypothesis%20Testing.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%205%20Statistical%20Hypothesis%20Testing.ipynb)
+**Chapter 5: Statistical Hypothesis Testing** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%205%20Statistical%20Hypothesis%20Testing.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%205%20Statistical%20Hypothesis%20Testing.ipynb)
 
 - 5.1. Normality Tests
   - 5.1.1. Shapiro-Wilk Test
