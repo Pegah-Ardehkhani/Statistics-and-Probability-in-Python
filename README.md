@@ -6,7 +6,6 @@
   <img width="500" height="350" src="https://cdn.dribbble.com/users/962944/screenshots/14138307/media/ca3377660c3d2053c9d91ac175871429.gif"> 
 </p>
 
-
 ## Table of content ✍️
 
 **Chapter 1: Special Continuous Random Variables** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%201%20Special%20Continuous%20Random%20Variables.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%201%20Special%20Continuous%20Random%20Variables.ipynb)
