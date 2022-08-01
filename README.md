@@ -106,7 +106,7 @@
   - 6.5.1. Regression Diagnostic
   - 6.5.2. Multicolinearity
 
-**Chapter 7: Analysis of Variance (Anova)** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%207%20Analysis%20of%20Variance%20(Anova).ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](http://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%207%20Analysis%20of%20Variance%20%28Anova%29.ipynb)
+**Chapter 7: Analysis of Variance (ANOVA)** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%207%20Analysis%20of%20Variance%20(Anova).ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](http://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%207%20Analysis%20of%20Variance%20%28Anova%29.ipynb)
 
 - 7.1. One-Way Analysis of Variance
   - 7.1.1. Equal Sample Sizes
