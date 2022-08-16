@@ -112,3 +112,4 @@
   - 7.1.1. Equal Sample Sizes
   - 7.1.2. Unequal Sample Sizes
 - 7.2. Two-Way Analysis of Variance
+
