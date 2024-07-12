@@ -21,6 +21,7 @@
 - 1.9. Weibull Distribution
 - 1.10. Cauchy Distribution
 - 1.11. Laplace Distribution
+- 1.12. Logistic Distribution
 
 **Chapter 2: Special Discrete Random Variables** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%202%20Special%20Discrete%20Random%20Variables.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%202%20Special%20Discrete%20Random%20Variables.ipynb)
 
