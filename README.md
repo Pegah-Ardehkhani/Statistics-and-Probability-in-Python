@@ -105,7 +105,7 @@
   - 6.4.4. Prediction Interval of a Future Response
 - 6.5. Residuals
   - 6.5.1. Regression Diagnostic
-  - 6.5.2. Multicolinearity
+  - 6.5.2. Multicollinearity
 
 **Chapter 7: Analysis of Variance (ANOVA)** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%207%20Analysis%20of%20Variance%20(Anova).ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](http://nbviewer.org/github/Pegah-Ardehkhani/Statistics-and-Probability-in-Python/blob/main/Chapter%207%20Analysis%20of%20Variance%20%28Anova%29.ipynb)
 
